@@ -41,4 +41,7 @@ The 'olympics.csv' file contains 14 different entries that are needed to be proc
 
 Output File: 
 The cleaned CSV that will be outputted from the process_olympic_data() function. 
-
+Columns:
+'Entry'
+'Name'
+'Code'
